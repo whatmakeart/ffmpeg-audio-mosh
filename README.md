@@ -5,3 +5,6 @@ Inspired by [ffmosher](https://github.com/davFaithid/ffmosher) by [davFaithid](h
 
 Used plain language inputs into the ChatGPT o1-preview as an experiment to see if a useable result could be produced. It works better with lower resolution videos but can be run in Google Collab. As LLM's continue to advance, hopefully more software tools can be created by users with plain language instructions so people can create and make the things that they want.
 
+(https://github.com/whatmakeart/ffmpeg-audio-mosh/blob/main/input.mp4)
+
+[![Watch the video]()](https://github.com/whatmakeart/ffmpeg-audio-mosh/blob/main/input.mp4)
