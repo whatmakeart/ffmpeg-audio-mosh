@@ -1,7 +1,7 @@
 # ffmpeg-mosh
 Datamoshing with ffmpeg audio filters in Google Collab
 
-![https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/whatmakeart/ffmpeg-audio-mosh/blob/main/ffmpeg_audio_filter_datamosh.ipynb)
+![[Open in Google Colab](https://colab.research.google.com/github/whatmakeart/ffmpeg-audio-mosh/blob/main/ffmpeg_audio_filter_datamosh.ipynb)](https://colab.research.google.com/assets/colab-badge.svg)
 
 Inspired by [ffmosher](https://github.com/davFaithid/ffmosher) by [davFaithid](https://github.com/davFaithid) which was inspired by [this example](https://www.reddit.com/r/datamoshing/comments/9s0los/datamoshd_a_screenshot_with_audacity_came_out/).
 
